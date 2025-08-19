@@ -4,7 +4,7 @@
 ---
 
 ## Professional Summary  
-Wireless LAN technology leader with **24+ years of experience** at **Qualcomm, Atheros, Broadcom, Athenasemi, and Telesilikon**. Proven expertise in **802.11 standards, chip definition, silicon bring-up, software design, device drivers, firmware, and customer feature delivery**. Experienced in **product definition and product engineering**, managing **highly motivated teams** and driving **cross-functional collaboration across subsystems and global geographies**. Strong track record of delivering **end-to-end WLAN solutions** adopted in high-volume markets.  
+Wireless LAN technology leader with 24+ years of experience at Qualcomm, Atheros, Broadcom, Athenasemi, and Telesilikon. Proven expertise in 802.11 standards, chip definition, silicon bring-up, software design, device drivers, firmware, and customer feature delivery. Experienced in product definition and product engineering, managing highly motivated teams and driving cross-functional collaboration across subsystems and global geographies. Strong track record of delivering end-to-end WLAN solutions adopted in high-volume markets.  
 
 ---
 
@@ -31,7 +31,7 @@ Wireless LAN technology leader with **24+ years of experience** at **Qualcomm, A
 
 ## Achievements  
 - Contributed to WLAN evolution from **802.11a through 802.11bn**.  
-- Shipped **multiple high-volume WLAN chipsets** for global markets.  
+- Shipped **multiple high-volume WLAN chipsets** for global markets.
 - Drove **customer-facing feature delivery** and complex field issue resolutions.  
 - Successfully managed **distributed cross-geo technical teams** for product releases.  
 
