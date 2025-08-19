@@ -1,4 +1,4 @@
-# [Karthikeyan Sugumaran]  
+# Karthikeyan Sugumaran 
 📞 9008889204 | 📧 yeskarthi@gmail.com
 
 ---
