@@ -1,5 +1,5 @@
-# [Your Full Name]  
-📞 Phone | 📧 Email | 🌐 LinkedIn | 📍 Location  
+# [Karthikeyan Sugumaran]  
+📞 9008889204 | 📧 yeskarthi@gmail.com
 
 ---
 
